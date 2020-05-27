@@ -42,3 +42,6 @@ group :test do
   # Easy installation and use of web drivers to run system tests with browsers
   gem 'webdrivers'
 end
+
+gem 'bootstrap', '~> 4.5.0'
+gem 'jquery-rails'
